@@ -19,10 +19,10 @@ READ ME FIRST
 
 
 ## About Me
-- 🔭 I love building **automation & robotics** projects that blend **computer vision, IoT, and embedded systems**.
-- 🧪 Currently tinkering with **smart energy**, **Electronics**, and **edge AI**.
-- 🎯 Goal: ship **reliable, real‑world systems** with measurable impact.
-- 📬 Reach me at **thusith.wijewardena@gmail.com**.
+- I love building **automation & robotics** projects that blend **computer vision, IoT, and embedded systems**.
+- Currently tinkering with **smart energy**, **Electronics**, and **edge AI**.
+- Goal: ship **reliable, real‑world systems** with measurable impact.
+- Reach me at **thusith.wijewardena@gmail.com**.
 
 ## What I’m good at
 <!-- Replace, add, or remove badges freely -->
