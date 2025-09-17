@@ -7,11 +7,11 @@ READ ME FIRST
 
 <!-- Header / Hero -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2800&pause=600&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Thusith+Wijewardena;Electrical+Engineering+Undergraduate+%40+UoM;Automation+%7C+Robotics+%7C+CV+%7C+IoT;I+build+useful+things+that+touch+the+real+world" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=poppins&weight=600&size=28&duration=2800&pause=600&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Thusith+Wijewardena;Electrical+Engineering+Undergraduate+%40+UoM;Automation+%7C+Robotics+%7C+CV+%7C+IoT;I+build+useful+things+that+impact+the+real+world" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <a href="mailto:wijewardenaltn.22@uom.lk"><img alt="Email" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:thusith.wijewardena@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/thusith-wijewardena"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/thusithvj"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
@@ -21,9 +21,9 @@ READ ME FIRST
 
 ## About Me
 - 🔭 I love building **automation & robotics** projects that blend **computer vision, IoT, and embedded systems**.
-- 🧪 Currently tinkering with **smart energy**, **full‑stack prototypes**, and **edge AI**.
+- 🧪 Currently tinkering with **smart energy**, **Electronics**, and **edge AI**.
 - 🎯 Goal: ship **reliable, real‑world systems** with measurable impact.
-- 📬 Reach me at **wijewardenaltn.22@uom.lk**.
+- 📬 Reach me at **thusith.wijewardena@gmail.com**.
 
 ## What I’m good at
 <!-- Replace, add, or remove badges freely -->
@@ -81,7 +81,7 @@ B.Sc. (Hons) in Electrical Engineering — **University of Moratuwa** (GPA: 3.53
 2008–2022 — Royal College, Colombo 7
 
 ## Contact
-- Email: **wijewardenaltn.22@uom.lk**
+- Email: **thusith.wijewardena@gmail.com**
 - LinkedIn: **https://www.linkedin.com/in/thusith-wijewardena**
 - GitHub: **https://github.com/thusithvj**
 
