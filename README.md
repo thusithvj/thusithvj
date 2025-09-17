@@ -16,8 +16,7 @@ READ ME FIRST
   <a href="https://github.com/thusithvj"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-<!-- Wave divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%">
+
 
 ## About Me
 - 🔭 I love building **automation & robotics** projects that blend **computer vision, IoT, and embedded systems**.
