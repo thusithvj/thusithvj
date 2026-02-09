@@ -37,7 +37,7 @@ READ ME FIRST
 
 ## Featured Builds
 <!-- TIP: Put your best 3–5 projects here. Keep each to 1–2 lines with a crisp value statement. -->
-- **Fire Rescue Robot** — Autonomous robot for **fire suppression & victim assistance** with multi‑sensor detection, modular suppression, navigation & remote monitoring.  
+- **ResQ** — Autonomous robot for **fire suppression & victim assistance** with multi‑sensor detection, modular suppression, navigation & remote monitoring.  
   <a href="https://github.com/thusithvj/Fire-Rescue-Robot"><img src="https://img.shields.io/badge/Repo-Fire_Rescue_Robot-24292e?logo=github" /></a>
 
 - **Smart Thermo‑Electric Cooler** — Precision temperature control (**±1°C**) with closed‑loop feedback in **LabVIEW**; custom sensors + NI USB‑6001 DAQ.  
@@ -54,10 +54,10 @@ READ ME FIRST
 
 ## 🏆 Highlights
 <!-- Feel free to remove rows you don't want to show -->
-- 🥇 **Champion** — SEIAN IEEE FINNC 2025
-- 🥈 **1st Runners‑up** — SEIAN SLIoT Challenge 2025 (University)
-- 🥉 **2nd Runners‑up** — SEIAN ComFix Challenge 2025
-- 🤖 **Finalist** — IEEE Fire Rescue Robot Challenge 2025
+- 🥇 **Champion** — IEEE FINNC 2025 (SEIAN)
+- 🥈 **1st Runners‑up** — SLIoT Challenge 2025 (SEIAN)
+- 🥉 **2nd Runners‑up** — ComFix Challenge 2025 (SEIAN)
+- 🥉 **2nd Runners‑up** — IEEE Applied Robotics Challenge 2025 (ResQ)
 
 <details>
   <summary>🎤 Leadership & Community (click to expand)</summary>
