@@ -76,7 +76,7 @@ READ ME FIRST
 </p>
 
 ## Education
-B.Sc. (Hons) in Electrical Engineering — **University of Moratuwa** (GPA: 3.53/4.00)  
+B.Sc. (Hons) in Electrical Engineering — **University of Moratuwa** (GPA: 3.65/4.00)  
 2008–2022 — Royal College, Colombo 7
 
 ## Contact
